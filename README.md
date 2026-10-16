@@ -6,7 +6,7 @@ Primera entrega de una tarea en grupo de Programación Orientada a Objetos
 imprimir uno de sus datos.
 
 La versión terminada de esta tarea, con dos objetos por clase y todos sus datos,
-está en [tare101](https://github.com/Whiteherobot/tare101). Este repo queda como
+está en [java-clases-y-objetos](https://github.com/Whiteherobot/java-clases-y-objetos). Este repo queda como
 el primer avance.
 
 ## Ejecutar
