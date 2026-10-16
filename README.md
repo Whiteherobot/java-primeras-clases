@@ -20,3 +20,5 @@ java -cp target/classes Gato   # o Perro, motos, estudiante
 
 - Michael Lata ([@Whiteherobot](https://github.com/Whiteherobot))
 - Gabriela Rocano
+
+Licencia MIT.
