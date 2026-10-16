@@ -1,4 +1,4 @@
-# Tarea1 · Primeras clases en Java
+# java-primeras-clases
 
 Primera entrega de una tarea en grupo de Programación Orientada a Objetos
 (Grupo 5, 1 de abril de 2022). Cada clase (`Gato`, `Perro`, `Animales`,
